@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/ramosm/tmp/lmax-thinlinc'
+let g:netrw_dirhist_2='/home/ramosm/gitlab/lmax-controlrepo/working/lmax-infra/manifests/fixloadbalancer'
+let g:netrw_dirhist_3='/home/ramosm/gitlab/lmax-controlrepo/working/lmax-keepalived/manifests/config'
+let g:netrw_dirhist_4='/home/ramosm/gitlab/lmax-controlrepo/working/lmax-thinlinc/files/etc/snmp'
+let g:netrw_dirhist_5='/home/ramosm/gitlab/lmax-controlrepo/working/lmax-profile/manifests'
+let g:netrw_dirhist_6='/home/ramosm/gitlab/lmax-controlrepo/working/lmax-profile/manifests/zimbra'
+let g:netrw_dirhist_7='/home/ramosm/gitlab/lmax-controlrepo/working/lmax-role/manifests/domaincontroller/primary'
